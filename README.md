@@ -1,1 +1,1 @@
-editovan README.file
+editovan README.file za pull request
