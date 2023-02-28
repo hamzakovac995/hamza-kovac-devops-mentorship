@@ -31,3 +31,8 @@ strings data.txt | grep ===
 ### sort 
 **sort** command is used to sort a file, arranging the records in a particular order. \
 sort data.txt | uniq -c
+
+
+### base64
+**base64** is an encoding scheme often used for encoding binary data into text that can easily be transferred and stored in media without accidental modification.\
+base64 -d data.txt
