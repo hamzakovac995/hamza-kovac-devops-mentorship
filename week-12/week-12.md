@@ -257,6 +257,16 @@ Bucket permission:
   }
 ```
 
+
+![image](https://github.com/hamzakovac995/hamza-kovac-devops-mentorship/assets/123903166/8497446a-6b73-4e8c-a6c7-e4b4653d13de)
+
+
+![image](https://github.com/hamzakovac995/hamza-kovac-devops-mentorship/assets/123903166/371aed5b-16a8-40f1-bcbc-ce2d7ebeeb16)
+
+
+![image](https://github.com/hamzakovac995/hamza-kovac-devops-mentorship/assets/123903166/a7eae9dc-47d8-4a6c-a03d-45696fcb742c)
+
+
 ## [ASSOCIATESHARED] [AdvancedDemo] Build A Serverless App - Pet-Cuddle-o-Tron - PART6
 
 
